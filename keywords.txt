@@ -1,0 +1,28 @@
+error 
+fail 
+failure
+critical 
+dead 
+crash 
+mce 
+mca 
+memory 
+hardware 
+firmware 
+read 
+write 
+event 
+device 
+buffer 
+boot 
+segment 
+cpu 
+[SMBIOS] 
+IEH 
+[Hardware Error] 
+PCIe 
+PCI 
+PciRoot 
+[VAB] 
+TPM RESET
+ASSERT
