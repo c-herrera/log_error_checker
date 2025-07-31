@@ -1,5 +1,10 @@
-# Serial log error throws a lot of files 
-# usage :
+# Scriptname : 
+# Purpose    : 
+# Created on : 
+# Version    : 
+# Helps on   : Serial log error throws a lot of files 
+#            : 
+# usage      :
 #  .\error-checker.ps1 -searchFile .\seriallogtocheck.log -keywordFile .\keywords.txt -outputFile output.txt
 # 
 
